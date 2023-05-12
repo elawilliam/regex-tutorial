@@ -172,6 +172,6 @@ Look-ahead and look-behind assertions provide powerful capabilities to include o
 
 ## Author
 
-This tutorial was compiled by Ela William (https://github.com/elawilliam/regex-tutorial) with the use of Chat GPT.
+This tutorial was compiled by [Ela William](https://github.com/elawilliam) with the use of Chat GPT.
 
 If you have any questions or feedback, please feel free to leave a comment or reach out to me directly.
